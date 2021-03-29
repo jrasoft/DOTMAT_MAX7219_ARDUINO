@@ -16,3 +16,25 @@ RADIO
 	
 2)	LOOP grep Streamtitle and Sen this to Arduino+Matrix
 	while true; do grep -i StreamTitle=  /mnt/ramdisk/file  >/dev/ttyUSB0 && sleep 20; done
+
+
+
+--------------------------------------------------------------
+INSTAGRAM
+
+A simple way to create letters and symbols for LED-DOT-MAtrix MAX7219 + Arduino nano or similar.
+
+mount Arduino/MAX7219
+Sreadsheet convert signs to Arduino Code (C const)
+send ASCII 32..126
+send special char and icons
+send small font ASCII 33..126
+send cyrillic chars (A-JA, only big russian/bulgarian)
+internal Kerning routines 
+
+#raspberry
+#arduinofun
+#arduinoprojects
+#arduinoworkshop
+#max7219module
+#max7219
