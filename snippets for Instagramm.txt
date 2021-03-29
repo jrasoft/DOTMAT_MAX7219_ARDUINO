@@ -32,6 +32,8 @@ send small font ASCII 33..126
 send cyrillic chars (A-JA, only big russian/bulgarian)
 internal Kerning routines 
 
+https://github.com/jrasoft/DOTMAT_MAX7219_ARDUINO.git
+
 #raspberry
 #arduinofun
 #arduinoprojects
