@@ -10,6 +10,6 @@ internal Kerning  routines
 INO/H FILES
 
 Arduino program uses FastLED.h
-ODS Sheet file
 
+ODS Sheet file
 design or change Your own chars
